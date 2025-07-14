@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<html>
 <head>
+  <title>Digital Clock</title>
   <style>
     body {
       background-color: lavender;
