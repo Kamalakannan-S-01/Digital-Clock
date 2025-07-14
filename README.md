@@ -1,4 +1,6 @@
+<html>
 <head>
+</head>
   <style>
     body {
       background-color: lavender;
